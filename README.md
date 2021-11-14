@@ -43,5 +43,5 @@
 * Image Cropping 
 * Image Compressing
 
-### <h3 align="right">Kshitiz Singh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+### <h3 align="right">Amitesh kumar mishra &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
 ### <h5 align="right">Freelancer App designer & developer</h5>
